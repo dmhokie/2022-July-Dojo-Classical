@@ -339,7 +339,7 @@
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "MonkeeBizniz#9563"]
-[BlackId " Søren1995"]
+[BlackId "Søren1995"]
 [WhiteElo "1453"]
 [BlackElo "1252"]
 
@@ -439,6 +439,22 @@
 [BlackElo "1493"]
 
 {[%SevillaID "4106"]}
+*
+
+[Event "2022 July Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.07.18"]
+[Round "1"]
+[White "SophieSafuya"]
+[Black "Kevsteramp"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "Safuya#7702"]
+[BlackId "Kevsteramp#2886"]
+[WhiteElo "1203"]
+[BlackElo "1200"]
+
+{[%SevillaID "4143"]}
 *
 
 [Event "2022 July Dojo Classical"]

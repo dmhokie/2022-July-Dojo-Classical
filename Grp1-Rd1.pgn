@@ -146,7 +146,7 @@
 [Round "1"]
 [White "Orcogigi"]
 [Black "RushGrayson"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Orcogigi (C,L,+2)#1312"]
 [BlackId "Rush Grayson#6974"]
@@ -154,7 +154,7 @@
 [BlackElo "900"]
 
 {[%SevillaID "4080"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -178,7 +178,7 @@
 [Round "1"]
 [White "PsychoFin"]
 [Black "mongreltiger"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "PsychoFin#5916"]
 [BlackId "mongreltiger#9686"]
@@ -186,7 +186,7 @@
 [BlackElo "1034"]
 
 {[%SevillaID "4089"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -321,7 +321,7 @@
 [Round "1"]
 [White "yoknoah"]
 [Black "PermaChecked"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "Yoknoah#1203"]
 [BlackId "Bandit Mclooty#5139"]
@@ -329,6 +329,6 @@
 [BlackElo "1160"]
 
 {[%SevillaID "4073"]}
-*
+1/2-1/2
 
 

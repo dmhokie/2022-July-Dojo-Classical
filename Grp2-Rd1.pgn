@@ -256,7 +256,7 @@
 [Round "1"]
 [White "kegTAP"]
 [Black "ProfessionalPatzer2"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "TrusionD #0984"]
 [BlackId "ProfessionalPatzer#4398"]
@@ -264,7 +264,7 @@
 [BlackElo "1429"]
 
 {[%SevillaID "4091"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -272,7 +272,7 @@
 [Round "1"]
 [White "Kiks Authority"]
 [Black "sfxe"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Kiks_Authority#9687"]
 [BlackId "Algorithmic#9137"]
@@ -280,7 +280,7 @@
 [BlackElo "1338"]
 
 {[%SevillaID "4103"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -320,7 +320,7 @@
 [Round "1"]
 [White "lmplay"]
 [Black "mrpithers"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600"]
 [WhiteId "lmplay#"]
 [BlackId "N/A"]
@@ -328,7 +328,7 @@
 [BlackElo "1564"]
 
 {[%SevillaID "4094"]}
-*
+1/2-1/2
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

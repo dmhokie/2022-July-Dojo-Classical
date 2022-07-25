@@ -68,7 +68,7 @@
 [Round "1"]
 [White "Grant Ham"]
 [Black "Squid1003"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "GHam#9027"]
 [BlackId "Squid1003"]
@@ -76,7 +76,7 @@
 [BlackElo "2073"]
 
 {[%SevillaID "4126"]}
-*
+1/2-1/2
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -100,14 +100,14 @@
 [Round "1"]
 [White "iamjameel"]
 [Black "KingSmasher35"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [BlackId "KingSmasher35 (L,C,-7)#3356"]
 [WhiteElo "1804"]
 [BlackElo "1603"]
 
 {[%SevillaID "4139"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -147,7 +147,7 @@
 [Round "1"]
 [White "JackFromLost"]
 [Black "khang421"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "JackFromLost80#7297"]
 [BlackId "its trudeau#0521"]
@@ -155,7 +155,7 @@
 [BlackElo "1600"]
 
 {[%SevillaID "4141"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -208,7 +208,7 @@
 [Round "1"]
 [White "millerso"]
 [Black "Unwashedlugosi"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [WhiteId "millerso #5231"]
 [BlackId "Unwashedlugosi #7536"]
@@ -216,7 +216,7 @@
 [BlackElo "1968"]
 
 {[%SevillaID "4130"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -224,7 +224,7 @@
 [Round "1"]
 [White "Mouselip"]
 [Black "ankit goel"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [WhiteId "Mouselip#7450"]
 [BlackId "CrazyMerlyn#3670"]
@@ -232,7 +232,7 @@
 [BlackElo "2178"]
 
 {[%SevillaID "4120"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -256,7 +256,7 @@
 [Round "1"]
 [White "Plantr91"]
 [Black "BrandonBizzell"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [WhiteId "Plantr91 C,L +1 #1357"]
 [BlackId "DoktorB"]
@@ -264,7 +264,7 @@
 [BlackElo "2098"]
 
 {[%SevillaID "4124"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

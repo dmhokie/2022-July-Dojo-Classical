@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Ashhamm"]
 [Black "RevolverJack7"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Lief#6826"]
 [BlackId "RevolverJack7#6089"]
@@ -28,7 +28,7 @@
 [BlackElo "1237"]
 
 {[%SevillaID "4236"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "BenAcademy"]
 [Black "luisefren01"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "B.E.N#3970"]
 [BlackId "0865"]
@@ -44,7 +44,7 @@
 [BlackElo "1287"]
 
 {[%SevillaID "4224"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "2"]
 [White "Brian1729"]
 [Black "figgeous"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "antler killer(Brian)#5031"]
 [BlackId "figgeous1182"]
@@ -76,7 +76,7 @@
 [BlackElo "1229"]
 
 {[%SevillaID "4219"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "2"]
 [White "CheeseWizard13"]
 [Black "chetmanley17"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Brynjar#2003"]
 [BlackId "tedk81 (3697)"]
@@ -92,7 +92,7 @@
 [BlackElo "1451"]
 
 {[%SevillaID "4231"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "2"]
 [White "FrenchFromage"]
 [Black "SophieSafuya"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "Sim#2505"]
 [BlackId "Safuya#7702"]
@@ -140,7 +140,7 @@
 [BlackElo "1203"]
 
 {[%SevillaID "4222"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -179,7 +179,7 @@
 [Round "2"]
 [White "Halgilde"]
 [Black "twentytrillion"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Halgilde@5362"]
 [BlackId "Noah! #8644"]
@@ -187,7 +187,7 @@
 [BlackElo "1520"]
 
 {[%SevillaID "4216"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -195,7 +195,7 @@
 [Round "2"]
 [White "Kevsteramp"]
 [Black "Liviu7766"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Kevsteramp#2886"]
 [BlackId "Liviu7766#4125"]
@@ -203,7 +203,7 @@
 [BlackElo "1355"]
 
 {[%SevillaID "4237"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -227,7 +227,7 @@
 [Round "2"]
 [White "mrpithers"]
 [Black "fan7as7ic 7"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "N/A"]
 [BlackId "[C] fan7as7ic_7#0522"]
@@ -235,7 +235,7 @@
 [BlackElo "1340"]
 
 {[%SevillaID "4223"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -243,7 +243,7 @@
 [Round "2"]
 [White "Mtc66"]
 [Black "kegTAP"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "mtc66#4570"]
 [BlackId "TrusionD #0984"]
@@ -251,7 +251,7 @@
 [BlackElo "1594"]
 
 {[%SevillaID "4210"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -259,14 +259,14 @@
 [Round "2"]
 [White "oblongboxx"]
 [Black "crispynug"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "oblongbox #4496"]
 [WhiteElo "1527"]
 [BlackElo "1274"]
 
 {[%SevillaID "4215"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -290,7 +290,7 @@
 [Round "2"]
 [White "picaveli"]
 [Black "Barnstorm"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "pshirak#3340"]
 [BlackId "Barnstorm#2520"]
@@ -298,7 +298,7 @@
 [BlackElo "1251"]
 
 {[%SevillaID "4234"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -337,7 +337,7 @@
 [Round "2"]
 [White "SMALZ21"]
 [Black "cra7ydave"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "SMALZ21#2726"]
 [BlackId "cra7ydave (C, +1)#9148"]
@@ -345,7 +345,7 @@
 [BlackElo "1347"]
 
 {[%SevillaID "4227"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -353,14 +353,14 @@
 [Round "2"]
 [White "SniffOhGod"]
 [Black "ChamyChess"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "Psycho John Madden#1828"]
 [WhiteElo "1594"]
 [BlackElo "1434"]
 
 {[%SevillaID "4211"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -384,7 +384,7 @@
 [Round "2"]
 [White "Ssoendergaard"]
 [Black "hayden8819"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Søren1995"]
 [BlackId "Fat Hobbit#0932"]
@@ -392,7 +392,7 @@
 [BlackElo "1465"]
 
 {[%SevillaID "4221"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -400,7 +400,7 @@
 [Round "2"]
 [White "sunfleck"]
 [Black "Flitz00"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "sunfleck#3507"]
 [BlackId "joshuarr#0849"]
@@ -408,7 +408,7 @@
 [BlackElo "1376"]
 
 {[%SevillaID "4226"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -416,7 +416,7 @@
 [Round "2"]
 [White "toonber"]
 [Black "MonkeeBizniz"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "bertito#2187"]
 [BlackId "MonkeeBizniz#9563"]
@@ -424,7 +424,7 @@
 [BlackElo "1453"]
 
 {[%SevillaID "4230"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

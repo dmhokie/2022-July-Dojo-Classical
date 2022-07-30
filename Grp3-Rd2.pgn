@@ -96,22 +96,6 @@
 [Site "chess.com"]
 [Date "2022.07.25"]
 [Round "2"]
-[White "ImperialDalek"]
-[Black "fischerandchips"]
-[Result "*"]
-[Section "1600+"]
-[WhiteId "MrDVader"]
-[BlackId "randall#6148"]
-[WhiteElo "1602"]
-[BlackElo "1974"]
-
-{[%SevillaID "4294"]}
-*
-
-[Event "2022 July Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.07.25"]
-[Round "2"]
 [White "joel cato"]
 [Black "BrandonBizzell"]
 [Result "*"]

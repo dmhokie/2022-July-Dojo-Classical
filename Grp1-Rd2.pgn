@@ -52,7 +52,7 @@
 [Round "2"]
 [White "BhanukaG"]
 [Black "catesta"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "Bhanuka#3142"]
 [BlackId "TaylorCates #4384"]
@@ -60,7 +60,7 @@
 [BlackElo "1066"]
 
 {[%SevillaID "4199"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -113,7 +113,7 @@
 [Round "2"]
 [White "Imagian"]
 [Black "valakon"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "Imagian (C, L, -7)#6044"]
 [BlackId "Valakon.7854"]
@@ -121,7 +121,7 @@
 [BlackElo "670"]
 
 {[%SevillaID "4195"]}
-*
+1/2-1/2
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -193,7 +193,7 @@
 [Round "2"]
 [White "mongreltiger"]
 [Black "PlayingViking"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "mongreltiger#9686"]
 [BlackId "PlyingViking#0642"]
@@ -201,7 +201,7 @@
 [BlackElo "1180"]
 
 {[%SevillaID "4190"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -336,7 +336,7 @@
 [Round "2"]
 [White "thalhuber"]
 [Black "crcarson"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "#Thalhuber(C, L, -6)"]
 [BlackId "crcarson#1710"]
@@ -344,6 +344,6 @@
 [BlackElo "732"]
 
 {[%SevillaID "4208"]}
-*
+0-0
 
 

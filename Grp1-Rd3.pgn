@@ -51,7 +51,7 @@
 [Round "3"]
 [White "BillKell24"]
 [Black "sully2112"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "BillKell24#5239"]
 [BlackId "sully2112 #4628"]
@@ -59,7 +59,7 @@
 [BlackElo "977"]
 
 {[%SevillaID "4328"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -99,7 +99,7 @@
 [Round "3"]
 [White "chesspaithiyam007"]
 [Black "akashjain1998"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "#tamilkirukkan"]
 [BlackId "akash19jain#4800"]
@@ -107,7 +107,7 @@
 [BlackElo "649"]
 
 {[%SevillaID "4317"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -115,14 +115,14 @@
 [Round "3"]
 [White "citizenerek"]
 [Black "theseankelly"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [BlackId "theseankelly#4146"]
 [WhiteElo "822"]
 [BlackElo "1035"]
 
 {[%SevillaID "4331"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -209,7 +209,7 @@
 [Round "3"]
 [White "Nhendo66"]
 [Black "Ricker"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Nhendo66#4418"]
 [BlackId "ricker#5570"]
@@ -217,7 +217,7 @@
 [BlackElo "1181"]
 
 {[%SevillaID "4325"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -257,7 +257,7 @@
 [Round "3"]
 [White "pvoorhees"]
 [Black "Ishmael75"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "pvoorhees01 #3880"]
 [BlackId "Ishmael75 (CL+10)#6754"]
@@ -265,7 +265,7 @@
 [BlackElo "935"]
 
 {[%SevillaID "4336"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -305,14 +305,14 @@
 [Round "3"]
 [White "SloBones"]
 [Black "joey steel"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [BlackId "phil#3699"]
 [WhiteElo "1000"]
 [BlackElo "1189"]
 
 {[%SevillaID "4323"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -320,7 +320,7 @@
 [Round "3"]
 [White "StevoWard"]
 [Black "RushGrayson"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "StevoWard#3450"]
 [BlackId "Rush Grayson#6974"]
@@ -328,7 +328,7 @@
 [BlackElo "900"]
 
 {[%SevillaID "4329"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

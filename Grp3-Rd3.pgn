@@ -4,7 +4,7 @@
 [Round "3"]
 [White "AFMhughes"]
 [Black "loanedpawn"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "henricum#0834"]
 [BlackId "Loanedpawn"]
@@ -12,7 +12,7 @@
 [BlackElo "1956"]
 
 {[%SevillaID "4376"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "3"]
 [White "alfbz"]
 [Black "BeautifulBlond"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "alfbz#7639"]
 [BlackId "Beautiful Blond#5330"]
@@ -28,7 +28,7 @@
 [BlackElo "1628"]
 
 {[%SevillaID "4397"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "3"]
 [White "khang421"]
 [Black "snapfirer"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "its trudeau#0521"]
 [BlackId "okrandom#9974"]
@@ -139,7 +139,7 @@
 [BlackElo "2088"]
 
 {[%SevillaID "4373"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -256,7 +256,7 @@
 [Round "3"]
 [White "michalperlak"]
 [Black "joel cato"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+"]
 [WhiteId "mikepq#4804"]
 [BlackId "joel_cato [Life Wins]#7861"]
@@ -264,7 +264,7 @@
 [BlackElo "1745"]
 
 {[%SevillaID "4395"]}
-*
+1/2-1/2
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -304,7 +304,7 @@
 [Round "3"]
 [White "Plantr91"]
 [Black "ankit goel"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "Plantr91 C,L +1 #1357"]
 [BlackId "CrazyMerlyn#3670"]
@@ -312,7 +312,7 @@
 [BlackElo "2178"]
 
 {[%SevillaID "4394"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -320,7 +320,7 @@
 [Round "3"]
 [White "silas1070"]
 [Black "ibh1985"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [WhiteId "Hypebeast#4065"]
 [BlackId "ibh #4926"]
@@ -328,7 +328,7 @@
 [BlackElo "1770"]
 
 {[%SevillaID "4382"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -352,7 +352,7 @@
 [Round "3"]
 [White "Unwashedlugosi"]
 [Black "Vakrank"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "Unwashedlugosi #7536"]
 [BlackId "Vackrank#4319"]
@@ -360,7 +360,7 @@
 [BlackElo "1868"]
 
 {[%SevillaID "4374"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

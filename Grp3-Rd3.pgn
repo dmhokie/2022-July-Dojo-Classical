@@ -52,7 +52,7 @@
 [Round "3"]
 [White "BrandonBizzell"]
 [Black "tompainter196"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [WhiteId "DoktorB"]
 [BlackId "ExtraaCrispyy#6882"]
@@ -60,7 +60,7 @@
 [BlackElo "1781"]
 
 {[%SevillaID "4380"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "3"]
 [White "ClutchSeegward"]
 [Black "Vintage-Knight"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [WhiteId "xClutchCS#7904"]
 [BlackId "#Vintage-Knight"]
@@ -76,7 +76,7 @@
 [BlackElo "1653"]
 
 {[%SevillaID "4385"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -84,14 +84,14 @@
 [Round "3"]
 [White "iamjameel"]
 [Black "millerso"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [BlackId "millerso #5231"]
 [WhiteElo "1804"]
 [BlackElo "1667"]
 
 {[%SevillaID "4390"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -163,14 +163,14 @@
 [Round "3"]
 [White "kyle b81"]
 [Black "The ChessParlor"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+"]
 [BlackId "ChessParlor #6799"]
 [WhiteElo "1600"]
 [BlackElo "1900"]
 
 {[%SevillaID "4384"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -383,7 +383,7 @@
 [Round "3"]
 [White "Yallneedchessus"]
 [Black "MajorBatata"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+"]
 [WhiteId "RaulValG#1929"]
 [BlackId "MajorBatata#9478"]
@@ -391,7 +391,7 @@
 [BlackElo "2071"]
 
 {[%SevillaID "4389"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

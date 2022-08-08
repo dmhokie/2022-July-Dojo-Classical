@@ -161,14 +161,14 @@
 [Round "3"]
 [White "crispynug"]
 [Black "alexvv24"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [BlackId "#alexvv24"]
 [WhiteElo "1274"]
 [BlackElo "1515"]
 
 {[%SevillaID "4356"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -222,7 +222,7 @@
 [Round "3"]
 [White "figgeous"]
 [Black "EzCheckMatee"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600"]
 [WhiteId "figgeous1182"]
 [BlackId "MrToasT#8781"]
@@ -230,7 +230,7 @@
 [BlackElo "1462"]
 
 {[%SevillaID "4359"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -254,14 +254,14 @@
 [Round "3"]
 [White "Gui Obermuller"]
 [Black "Oslee"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [BlackId "Auslee#0600"]
 [WhiteElo "1450"]
 [BlackElo "1282"]
 
 {[%SevillaID "4368"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -317,14 +317,14 @@
 [Round "3"]
 [White "Jjames1"]
 [Black "sfxe"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600"]
 [BlackId "Algorithmic#9137"]
 [WhiteElo "1495"]
 [BlackElo "1338"]
 
 {[%SevillaID "4357"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -364,7 +364,7 @@
 [Round "3"]
 [White "Liviu7766"]
 [Black "SMALZ21"]
-[Result "1-0"]
+[Result "0-1"]
 [Section "1200-1600"]
 [WhiteId "Liviu7766#4125"]
 [BlackId "SMALZ21#2726"]
@@ -372,7 +372,7 @@
 [BlackElo "1550"]
 
 {[%SevillaID "4354"]}
-1-0
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

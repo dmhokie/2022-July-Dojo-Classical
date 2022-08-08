@@ -35,7 +35,7 @@
 [Round "3"]
 [White "BhanukaG"]
 [Black "AntmanTDK13"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "Bhanuka#3142"]
 [BlackId "AntmanTDK13#8886"]
@@ -43,7 +43,7 @@
 [BlackElo "766"]
 
 {[%SevillaID "4335"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -289,7 +289,7 @@
 [Round "3"]
 [White "SageMuffin"]
 [Black "PsychoFin"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "SageMuffin#0150"]
 [BlackId "PsychoFin#5916"]
@@ -297,7 +297,7 @@
 [BlackElo "650"]
 
 {[%SevillaID "4339"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

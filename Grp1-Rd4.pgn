@@ -4,7 +4,7 @@
 [Round "4"]
 [White "akashjain1998"]
 [Black "ribrubrib"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "akash19jain#4800"]
 [BlackId "ribrubrib#3675"]
@@ -12,7 +12,7 @@
 [BlackElo "1050"]
 
 {[%SevillaID "4422"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "4"]
 [White "AustinCastles"]
 [Black "pvoorhees"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "AustinCastles #9680"]
 [BlackId "pvoorhees01 #3880"]
@@ -28,7 +28,7 @@
 [BlackElo "1022"]
 
 {[%SevillaID "4430"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "4"]
 [White "bachforell e"]
 [Black "Bisqwuitke"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "raina#7112"]
 [BlackId "Bisqwuitje#9704"]
@@ -44,7 +44,7 @@
 [BlackElo "500"]
 
 {[%SevillaID "4433"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "4"]
 [White "bjg819"]
 [Black "Jet Unholy"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "billy_gardner_(C, -7)#6914"]
 [BlackId "Jet_Unholy (#5808)"]
@@ -76,7 +76,7 @@
 [BlackElo "907"]
 
 {[%SevillaID "4437"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -116,14 +116,14 @@
 [Round "4"]
 [White "citizenerek"]
 [Black "thalhuber"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [BlackId "#Thalhuber(C, L, -6)"]
 [WhiteElo "822"]
 [BlackElo "1000"]
 
 {[%SevillaID "4434"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "4"]
 [White "cnunezre"]
 [Black "BillKell24"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "dinomuri#3099"]
 [BlackId "BillKell24#5239"]
@@ -139,7 +139,7 @@
 [BlackElo "1082"]
 
 {[%SevillaID "4426"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -163,14 +163,14 @@
 [Round "4"]
 [White "Emybest"]
 [Black "Ishmael75"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [BlackId "Ishmael75 (CL+10)#6754"]
 [WhiteElo "759"]
 [BlackElo "935"]
 
 {[%SevillaID "4444"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -178,7 +178,7 @@
 [Round "4"]
 [White "joey steel"]
 [Black "Orcogigi"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "phil#3699"]
 [BlackId "Orcogigi (C,L,+2)#1312"]
@@ -186,7 +186,7 @@
 [BlackElo "1106"]
 
 {[%SevillaID "4425"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -194,7 +194,7 @@
 [Round "4"]
 [White "LaNeraTorre"]
 [Black "Imagian"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "LaNeraTorre#9647"]
 [BlackId "Imagian (C, L, -7)#6044"]
@@ -202,7 +202,7 @@
 [BlackElo "1087"]
 
 {[%SevillaID "4423"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -210,7 +210,7 @@
 [Round "4"]
 [White "linkydinc"]
 [Black "mongreltiger"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "FluffyLynx (#4959)"]
 [BlackId "mongreltiger#9686"]
@@ -218,7 +218,7 @@
 [BlackElo "1034"]
 
 {[%SevillaID "4428"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -226,7 +226,7 @@
 [Round "4"]
 [White "Nhendo66"]
 [Black "hailbo"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Nhendo66#4418"]
 [BlackId "¡hailbo!#6804"]
@@ -234,7 +234,7 @@
 [BlackElo "1050"]
 
 {[%SevillaID "4435"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -258,7 +258,7 @@
 [Round "4"]
 [White "PlayingViking"]
 [Black "StevoWard"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "PlyingViking#0642"]
 [BlackId "StevoWard#3450"]
@@ -266,7 +266,7 @@
 [BlackElo "1078"]
 
 {[%SevillaID "4427"]}
-*
+1/2-1/2
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -274,14 +274,14 @@
 [Round "4"]
 [White "RushGrayson"]
 [Black "SloBones"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Rush Grayson#6974"]
 [WhiteElo "900"]
 [BlackElo "1000"]
 
 {[%SevillaID "4438"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -352,7 +352,7 @@
 [Round "4"]
 [White "valakon"]
 [Black "CKBega"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Valakon.7854"]
 [BlackId "CKBega#3768"]
@@ -360,6 +360,6 @@
 [BlackElo "1157"]
 
 {[%SevillaID "4424"]}
-*
+0-1
 
 

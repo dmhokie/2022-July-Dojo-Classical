@@ -84,7 +84,7 @@
 [Round "4"]
 [White "catesta"]
 [Black "shurrikane1"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "TaylorCates #4384"]
 [BlackId "Shurrikane#2309"]
@@ -92,7 +92,7 @@
 [BlackElo "800"]
 
 {[%SevillaID "4432"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "4"]
 [White "ChessChump55"]
 [Black "mike1mike"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "TheDiscontent#1988"]
 [BlackId "Mike1Mike#5542"]
@@ -108,7 +108,7 @@
 [BlackElo "1051"]
 
 {[%SevillaID "4441"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -147,7 +147,7 @@
 [Round "4"]
 [White "crcarson"]
 [Black "yoknoah"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "crcarson#1710"]
 [BlackId "Yoknoah#1203"]
@@ -155,7 +155,7 @@
 [BlackElo "1000"]
 
 {[%SevillaID "4442"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -242,7 +242,7 @@
 [Round "4"]
 [White "PermaChecked"]
 [Black "Marziotta"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Bandit Mclooty#5139"]
 [BlackId "Marziotta#1361"]
@@ -250,7 +250,7 @@
 [BlackElo "805"]
 
 {[%SevillaID "4431"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -289,7 +289,7 @@
 [Round "4"]
 [White "SlappyTaps"]
 [Black "sunshiptrane"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "SlappyTaps#8089"]
 [BlackId "Adam (sunship)#2773"]
@@ -297,7 +297,7 @@
 [BlackElo "969"]
 
 {[%SevillaID "4440"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -305,14 +305,14 @@
 [Round "4"]
 [White "sully2112"]
 [Black "Banus504"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "sully2112 #4628"]
 [WhiteElo "977"]
 [BlackElo "888"]
 
 {[%SevillaID "4439"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -320,7 +320,7 @@
 [Round "4"]
 [White "Tarzan1787"]
 [Black "SageMuffin"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Isaac1787#0162"]
 [BlackId "SageMuffin#0150"]
@@ -328,7 +328,7 @@
 [BlackElo "965"]
 
 {[%SevillaID "4436"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -336,7 +336,7 @@
 [Round "4"]
 [White "testnameignore"]
 [Black "chesspaithiyam007"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "Testnameignore#7833"]
 [BlackId "#tamilkirukkan"]
@@ -344,7 +344,7 @@
 [BlackElo "1148"]
 
 {[%SevillaID "4429"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

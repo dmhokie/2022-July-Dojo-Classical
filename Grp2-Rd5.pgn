@@ -11,7 +11,7 @@
 [WhiteElo "1367"]
 [BlackElo "1205"]
 
-{[%SevillaID "4551"]}
+{[%SevillaID "4639"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -27,7 +27,7 @@
 [WhiteElo "1557"]
 [BlackElo "1370"]
 
-{[%SevillaID "4527"]}
+{[%SevillaID "4615"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -43,7 +43,7 @@
 [WhiteElo "1575"]
 [BlackElo "1486"]
 
-{[%SevillaID "4531"]}
+{[%SevillaID "4619"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -58,7 +58,7 @@
 [WhiteElo "1434"]
 [BlackElo "1520"]
 
-{[%SevillaID "4529"]}
+{[%SevillaID "4617"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -66,15 +66,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "chetmanley17"]
-[Black "SophieSafuya"]
+[Black "figgeous"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "tedk81 (3697)"]
-[BlackId "Safuya#7702"]
+[BlackId "figgeous1182"]
 [WhiteElo "1451"]
-[BlackElo "1203"]
+[BlackElo "1229"]
 
-{[%SevillaID "4540"]}
+{[%SevillaID "4627"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -90,23 +90,7 @@
 [WhiteElo "1347"]
 [BlackElo "1227"]
 
-{[%SevillaID "4554"]}
-*
-
-[Event "2022 July Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.08.15"]
-[Round "5"]
-[White "crimson lizard"]
-[Black "FrenchFromage"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "syrinx#1336"]
-[BlackId "Sim#2505"]
-[WhiteElo "1379"]
-[BlackElo "1570"]
-
-{[%SevillaID "4535"]}
+{[%SevillaID "4641"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -121,7 +105,7 @@
 [WhiteElo "1407"]
 [BlackElo "1518"]
 
-{[%SevillaID "4530"]}
+{[%SevillaID "4618"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -136,7 +120,7 @@
 [WhiteElo "1551"]
 [BlackElo "1274"]
 
-{[%SevillaID "4537"]}
+{[%SevillaID "4625"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -144,15 +128,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "EzCheckMatee"]
-[Black "luisefren01"]
+[Black "Flitz00"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "MrToasT#8781"]
-[BlackId "0865"]
+[BlackId "joshuarr#0849"]
 [WhiteElo "1462"]
-[BlackElo "1287"]
+[BlackElo "1376"]
 
-{[%SevillaID "4546"]}
+{[%SevillaID "4634"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -168,7 +152,22 @@
 [WhiteElo "1593"]
 [BlackElo "1466"]
 
-{[%SevillaID "4533"]}
+{[%SevillaID "4621"]}
+*
+
+[Event "2022 July Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.08.15"]
+[Round "5"]
+[White "Gui Obermuller"]
+[Black "fan7as7ic 7"]
+[Result "*"]
+[Section "1200-1600"]
+[BlackId "[C] fan7as7ic_7#0522"]
+[WhiteElo "1450"]
+[BlackElo "1340"]
+
+{[%SevillaID "4640"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -184,7 +183,7 @@
 [WhiteElo "1465"]
 [BlackElo "1594"]
 
-{[%SevillaID "4526"]}
+{[%SevillaID "4614"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -192,15 +191,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "isolated rook"]
-[Black "bltsandwich64"]
+[Black "crimson lizard"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "Big Jo#8915"]
-[BlackId "bltsandwich64#9358"]
+[BlackId "syrinx#1336"]
 [WhiteElo "1207"]
-[BlackElo "1493"]
+[BlackElo "1379"]
 
-{[%SevillaID "4539"]}
+{[%SevillaID "4630"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -208,15 +207,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "Jjo5034"]
-[Black "Wallybanks"]
+[Black "Bill0007"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "Jason Zanan#1187"]
-[BlackId "wallybanks#1172"]
+[BlackId "Bill0007"]
 [WhiteElo "1257"]
-[BlackElo "1442"]
+[BlackElo "1553"]
 
-{[%SevillaID "4541"]}
+{[%SevillaID "4624"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -232,23 +231,7 @@
 [WhiteElo "1594"]
 [BlackElo "1278"]
 
-{[%SevillaID "4534"]}
-*
-
-[Event "2022 July Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.08.15"]
-[Round "5"]
-[White "LL1117"]
-[Black "fan7as7ic 7"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "Diamond#7449"]
-[BlackId "[C] fan7as7ic_7#0522"]
-[WhiteElo "1416"]
-[BlackElo "1340"]
-
-{[%SevillaID "4552"]}
+{[%SevillaID "4622"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -256,15 +239,14 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "lmplay"]
-[Black "figgeous"]
+[Black "Chris4467"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "lmplay#"]
-[BlackId "figgeous1182"]
 [WhiteElo "1409"]
-[BlackElo "1229"]
+[BlackElo "1220"]
 
-{[%SevillaID "4542"]}
+{[%SevillaID "4629"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -272,15 +254,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "logitekk"]
-[Black "MonkeeBizniz"]
+[Black "Halgilde"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "xdan#4264"]
-[BlackId "MonkeeBizniz#9563"]
+[BlackId "Halgilde@5362"]
 [WhiteElo "1264"]
-[BlackElo "1453"]
+[BlackElo "1413"]
 
-{[%SevillaID "4548"]}
+{[%SevillaID "4637"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -296,7 +278,23 @@
 [WhiteElo "1504"]
 [BlackElo "1251"]
 
-{[%SevillaID "4538"]}
+{[%SevillaID "4626"]}
+*
+
+[Event "2022 July Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.08.15"]
+[Round "5"]
+[White "MonkeeBizniz"]
+[Black "luisefren01"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "MonkeeBizniz#9563"]
+[BlackId "0865"]
+[WhiteElo "1453"]
+[BlackElo "1287"]
+
+{[%SevillaID "4635"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -304,14 +302,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "morphyfanLL"]
-[Black "Chris4467"]
+[Black "ProfessionalPatzer2"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "morphyfanLL#8385"]
+[BlackId "ProfessionalPatzer#4398"]
 [WhiteElo "1565"]
-[BlackElo "1220"]
+[BlackElo "1429"]
 
-{[%SevillaID "4543"]}
+{[%SevillaID "4631"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -319,15 +318,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "Nuxoz"]
-[Black "ProfessionalPatzer2"]
+[Black "alexvv24"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "Nuxoz#6913"]
-[BlackId "ProfessionalPatzer#4398"]
+[BlackId "#alexvv24"]
 [WhiteElo "1248"]
-[BlackElo "1429"]
+[BlackElo "1515"]
 
-{[%SevillaID "4547"]}
+{[%SevillaID "4633"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -343,7 +342,7 @@
 [WhiteElo "1527"]
 [BlackElo "1472"]
 
-{[%SevillaID "4525"]}
+{[%SevillaID "4613"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -359,7 +358,7 @@
 [WhiteElo "1400"]
 [BlackElo "1326"]
 
-{[%SevillaID "4550"]}
+{[%SevillaID "4638"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -367,30 +366,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "RevolverJack7"]
-[Black "Halgilde"]
+[Black "LL1117"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "RevolverJack7#6089"]
-[BlackId "Halgilde@5362"]
+[BlackId "Diamond#7449"]
 [WhiteElo "1237"]
-[BlackElo "1413"]
+[BlackElo "1416"]
 
-{[%SevillaID "4549"]}
-*
-
-[Event "2022 July Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.08.15"]
-[Round "5"]
-[White "rsstrahan"]
-[Black "Gui Obermuller"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "rsstrahan (C, L, -5)"]
-[WhiteElo "1290"]
-[BlackElo "1450"]
-
-{[%SevillaID "4553"]}
+{[%SevillaID "4636"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -398,15 +382,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "ScaredPeach"]
-[Black "Bill0007"]
+[Black "FrenchFromage"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "ScaredPeach#4604"]
-[BlackId "Bill0007"]
+[BlackId "Sim#2505"]
 [WhiteElo "1368"]
-[BlackElo "1553"]
+[BlackElo "1570"]
 
-{[%SevillaID "4536"]}
+{[%SevillaID "4623"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -421,23 +405,7 @@
 [WhiteElo "1550"]
 [BlackElo "1445"]
 
-{[%SevillaID "4528"]}
-*
-
-[Event "2022 July Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.08.15"]
-[Round "5"]
-[White "squarezou"]
-[Black "Flitz00"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "Leavzou#6109"]
-[BlackId "joshuarr#0849"]
-[WhiteElo "1558"]
-[BlackElo "1376"]
-
-{[%SevillaID "4544"]}
+{[%SevillaID "4616"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -445,15 +413,15 @@
 [Date "2022.08.15"]
 [Round "5"]
 [White "Ssoendergaard"]
-[Black "alexvv24"]
+[Black "squarezou"]
 [Result "*"]
 [Section "1200-1600"]
 [WhiteId "Søren1995"]
-[BlackId "#alexvv24"]
+[BlackId "Leavzou#6109"]
 [WhiteElo "1252"]
-[BlackElo "1515"]
+[BlackElo "1558"]
 
-{[%SevillaID "4545"]}
+{[%SevillaID "4632"]}
 *
 
 [Event "2022 July Dojo Classical"]
@@ -469,7 +437,23 @@
 [WhiteElo "1285"]
 [BlackElo "1564"]
 
-{[%SevillaID "4532"]}
+{[%SevillaID "4620"]}
+*
+
+[Event "2022 July Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.08.15"]
+[Round "5"]
+[White "Wallybanks"]
+[Black "SophieSafuya"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "wallybanks#1172"]
+[BlackId "Safuya#7702"]
+[WhiteElo "1442"]
+[BlackElo "1203"]
+
+{[%SevillaID "4628"]}
 *
 
 

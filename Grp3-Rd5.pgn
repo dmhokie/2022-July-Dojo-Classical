@@ -131,7 +131,7 @@
 [Round "5"]
 [White "ImperialDalek"]
 [Black "snapfirer"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+"]
 [WhiteId "MrDVader"]
 [BlackId "okrandom#9974"]
@@ -139,7 +139,7 @@
 [BlackElo "2088"]
 
 {[%SevillaID "4643"]}
-*
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

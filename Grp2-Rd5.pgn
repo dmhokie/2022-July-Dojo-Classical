@@ -81,22 +81,6 @@
 [Site "chess.com"]
 [Date "2022.08.15"]
 [Round "5"]
-[White "cra7ydave"]
-[Black "Goodhumor"]
-[Result "*"]
-[Section "1200-1600"]
-[WhiteId "cra7ydave (C, +1)#9148"]
-[BlackId "Ice Cream, #7742"]
-[WhiteElo "1347"]
-[BlackElo "1227"]
-
-{[%SevillaID "4641"]}
-*
-
-[Event "2022 July Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.08.15"]
-[Round "5"]
 [White "Cymro27"]
 [Black "BenAcademy"]
 [Result "*"]
@@ -375,6 +359,22 @@
 [BlackElo "1416"]
 
 {[%SevillaID "4636"]}
+*
+
+[Event "2022 July Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.08.15"]
+[Round "5"]
+[White "rsstrahan"]
+[Black "Goodhumor"]
+[Result "*"]
+[Section "1200-1600"]
+[WhiteId "rsstrahan (C, L, -5)"]
+[BlackId "Ice Cream, #7742"]
+[WhiteElo "1290"]
+[BlackElo "1227"]
+
+{[%SevillaID "4641"]}
 *
 
 [Event "2022 July Dojo Classical"]

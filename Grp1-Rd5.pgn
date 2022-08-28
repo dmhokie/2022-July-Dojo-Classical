@@ -306,7 +306,7 @@
 [Round "5"]
 [White "sully2112"]
 [Black "testnameignore"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "u1200"]
 [WhiteId "sully2112 #4628"]
 [BlackId "Testnameignore#7833"]
@@ -314,7 +314,7 @@
 [BlackElo "1146"]
 
 {[%SevillaID "4513"]}
-0-0
+0-1
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]

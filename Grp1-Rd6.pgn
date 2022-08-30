@@ -83,7 +83,7 @@
 [Round "6"]
 [White "CKBega"]
 [Black "LaNeraTorre"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "CKBega#3768"]
 [BlackId "LaNeraTorre#9647"]
@@ -91,7 +91,7 @@
 [BlackElo "1189"]
 
 {[%SevillaID "4670"]}
-*
+1-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -99,7 +99,7 @@
 [Round "6"]
 [White "crcarson"]
 [Black "ChessChump55"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "crcarson#1710"]
 [BlackId "TheDiscontent#1988"]
@@ -107,7 +107,7 @@
 [BlackElo "888"]
 
 {[%SevillaID "4690"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +131,7 @@
 [Round "6"]
 [White "joey steel"]
 [Black "PlayingViking"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "phil#3699"]
 [BlackId "PlyingViking#0642"]
@@ -139,7 +139,7 @@
 [BlackElo "1180"]
 
 {[%SevillaID "4672"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -147,7 +147,7 @@
 [Round "6"]
 [White "linkydinc"]
 [Black "StevoWard"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "FluffyLynx (#4959)"]
 [BlackId "StevoWard#3450"]
@@ -155,7 +155,7 @@
 [BlackElo "1078"]
 
 {[%SevillaID "4674"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -210,7 +210,7 @@
 [Round "6"]
 [White "PermaChecked"]
 [Black "Sabreref"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200"]
 [WhiteId "Bandit Mclooty#5139"]
 [BlackId "MBush0450#3149"]
@@ -218,7 +218,7 @@
 [BlackElo "872"]
 
 {[%SevillaID "4680"]}
-*
+0-0
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -226,7 +226,7 @@
 [Round "6"]
 [White "PumpkinTheCat3"]
 [Black "akashjain1998"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200"]
 [WhiteId "pumpkinthecat#3938"]
 [BlackId "akash19jain#4800"]
@@ -234,7 +234,7 @@
 [BlackElo "649"]
 
 {[%SevillaID "4673"]}
-*
+1/2-1/2
 
 [Event "2022 July Dojo Classical"]
 [Site "chess.com"]
@@ -322,7 +322,7 @@
 [Round "6"]
 [White "valakon"]
 [Black "mongreltiger"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200"]
 [WhiteId "Valakon.7854"]
 [BlackId "mongreltiger#9686"]
@@ -330,6 +330,6 @@
 [BlackElo "1034"]
 
 {[%SevillaID "4677"]}
-*
+1-0
 
 
